@@ -1,0 +1,33 @@
+{
+  "name": "freshdesk-sdk-node",
+  "version": "0.0.1",
+  "description": "Freshdesk API client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OtaK/freshdesk-sdk-node.git"
+  },
+  "keywords": [
+    "freshdesk",
+    "api",
+    "sdk",
+    "client"
+  ],
+  "dependencies":   {
+      "request": "2.55.x"
+  },
+  "author":         {
+      "name":  "Mathieu Amiot",
+      "email": "m.amiot@otak-arts.com",
+      "url":   "http://www.mathieu-amiot.fr/"
+  },
+  "license":        "Apache 2.0",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/OtaK/freshdesk-sdk-node/issues"
+  },
+  "homepage": "https://github.com/OtaK/freshdesk-sdk-node"
+}
