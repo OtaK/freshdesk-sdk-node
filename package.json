@@ -1,5 +1,5 @@
 {
-  "name": "freshdesk-sdk-node",
+  "name": "freshdesk-sdk",
   "version": "0.0.1",
   "description": "Freshdesk API client for Node.js",
   "main": "index.js",
